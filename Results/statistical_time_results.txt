@@ -1,0 +1,3 @@
+statemate 1400 - mean : 1.590359, range, 0.430000, standard deviation : 0.059490, confidence interval : [1.583495, 1.597224]
+cjpeg_wrbmp 1400 - mean : 1.710120, range, 0.380000, standard deviation : 0.058443, confidence interval : [1.703376, 1.716863]
+ndes 1400 - mean : 1.594981, range, 0.480000, standard deviation : 0.062612, confidence interval : [1.587757, 1.602205]
